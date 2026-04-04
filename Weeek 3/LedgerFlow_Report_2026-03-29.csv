@@ -1,0 +1,12 @@
+"Date","Description","Ledger Account","Type","Amount (Rs.)","Status"
+"26/3/2026","Taxes","Payables","expense","2300","Pending"
+"26/3/2026","Raybans","Sales","income","2400","Completed"
+"25/3/2026","Taxess","Cash","expense","12312","Completed"
+"22/3/2026","Raybans","","income","2400","Completed"
+"21/3/2026","Glasses","","expense","3400","Completed"
+
+"SUMMARY"
+"Total Income","","","","4800"
+"Total Expense","","","","18012"
+"Net Profit","","","","-13212"
+"Total Transactions","","","","5"
